@@ -1,0 +1,15 @@
+C:\Users\Guilherme\Objeto\bin\Debug\net7.0\Objeto.exe
+C:\Users\Guilherme\Objeto\bin\Debug\net7.0\Objeto.deps.json
+C:\Users\Guilherme\Objeto\bin\Debug\net7.0\Objeto.runtimeconfig.json
+C:\Users\Guilherme\Objeto\bin\Debug\net7.0\Objeto.dll
+C:\Users\Guilherme\Objeto\bin\Debug\net7.0\Objeto.pdb
+C:\Users\Guilherme\Objeto\obj\Debug\net7.0\Objeto.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Objeto\obj\Debug\net7.0\Objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Objeto\obj\Debug\net7.0\Objeto.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Objeto\obj\Debug\net7.0\Objeto.AssemblyInfo.cs
+C:\Users\Guilherme\Objeto\obj\Debug\net7.0\Objeto.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Objeto\obj\Debug\net7.0\Objeto.dll
+C:\Users\Guilherme\Objeto\obj\Debug\net7.0\refint\Objeto.dll
+C:\Users\Guilherme\Objeto\obj\Debug\net7.0\Objeto.pdb
+C:\Users\Guilherme\Objeto\obj\Debug\net7.0\Objeto.genruntimeconfig.cache
+C:\Users\Guilherme\Objeto\obj\Debug\net7.0\ref\Objeto.dll
